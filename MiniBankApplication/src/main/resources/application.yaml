@@ -1,0 +1,10 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: miniBankApplication
+  datasource:
+    url: jdbc:mysql://localhost:3306/mini_bank_app
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 1233211234
